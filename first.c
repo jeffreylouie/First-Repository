@@ -5,5 +5,6 @@ int main(void) {
 	puts("Learning C");
 	puts("Today is Monday");
 	puts("Java is OK");
+	puts("I made changes");
 	return 0;
 }
